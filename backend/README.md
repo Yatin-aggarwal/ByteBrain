@@ -13,13 +13,6 @@ git clone https://github.com/Yatin-aggarwal/ByteBrain.git
 cd ByteBrain/backend
 ```
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/Yatin-aggarwal/ByteBrain.git
-cd ByteBrain/backend
-```
-
 ### 2. Install Dependencies
 Make sure you have Node.js and npm installed. Then run:
 
