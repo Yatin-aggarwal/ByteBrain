@@ -180,6 +180,7 @@ tzdata==2025.2
 unstructured==0.17.2
 unstructured-client==0.32.3
 unstructured-inference==0.8.10
+unstructured.pytesseract==0.3.15
 urllib3==2.3.0
 uuid==1.30
 uvicorn==0.34.0
